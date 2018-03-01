@@ -38,6 +38,7 @@ gem 'sass-rails'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'kaminari'
+gem 'bootstrap', '~> 4.0.0'
 
 gem 'uglifier'
 gem 'yui-compressor'
